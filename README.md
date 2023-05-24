@@ -16,6 +16,7 @@ Tensor Extension for Windows (8.1, 10, 11)
 - PHP 7.4 (NTS)
 - PHP 8.0 (TS,NTS)
 - PHP 8.1 (TS,NTS)
+- PHP 8.2 (TS,NTS)
 
 ## Usage
 
